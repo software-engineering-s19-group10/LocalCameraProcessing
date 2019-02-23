@@ -1,20 +1,20 @@
-#Local Processing and Camera Communication
+# Local Processing and Camera Communication
 
-##Local Processing
+## Local Processing
 
-###Object Detection
+### Object Detection
 
 Run object detection on feed to detect masks.  Train on black ski masks.
 
-###Facial Detection
+### Facial Detection
 
 Detection faces and call recognition. May run in series or along side of recognition.
 
-###Facial Recognition
+### Facial Recognition
 
 Follows facial detection.
 
-##Camera Communication
+## Camera Communication
 
 Communicate with webcam.
 
